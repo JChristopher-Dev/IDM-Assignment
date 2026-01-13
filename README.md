@@ -87,21 +87,4 @@ Please note the following before running the application:
 * File I/O
 * Custom test runner (no external dependencies)
 
----
-
-## Notes
-
-* No external NuGet packages are used in this project.
-* The codebase prioritizes readability, maintainability, and robust error handling.
-* This repository is intended for academic evaluation and technical review.
-
----
-
-If you want, I can also:
-
-* Add **screenshots of console output**
-* Write a **marker-friendly “Assumptions & Limitations” section**
-* Tailor this README for a **recruiter-facing portfolio**
-
-Just say the word 👌
 
