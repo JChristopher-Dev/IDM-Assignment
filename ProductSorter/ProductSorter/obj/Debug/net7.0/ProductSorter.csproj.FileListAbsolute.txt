@@ -1,0 +1,15 @@
+E:\University\Work\Assessment\ProductSorter\ProductSorter\bin\Debug\net7.0\ProductSorter.exe
+E:\University\Work\Assessment\ProductSorter\ProductSorter\bin\Debug\net7.0\ProductSorter.deps.json
+E:\University\Work\Assessment\ProductSorter\ProductSorter\bin\Debug\net7.0\ProductSorter.runtimeconfig.json
+E:\University\Work\Assessment\ProductSorter\ProductSorter\bin\Debug\net7.0\ProductSorter.dll
+E:\University\Work\Assessment\ProductSorter\ProductSorter\bin\Debug\net7.0\ProductSorter.pdb
+E:\University\Work\Assessment\ProductSorter\ProductSorter\obj\Debug\net7.0\ProductSorter.csproj.AssemblyReference.cache
+E:\University\Work\Assessment\ProductSorter\ProductSorter\obj\Debug\net7.0\ProductSorter.GeneratedMSBuildEditorConfig.editorconfig
+E:\University\Work\Assessment\ProductSorter\ProductSorter\obj\Debug\net7.0\ProductSorter.AssemblyInfoInputs.cache
+E:\University\Work\Assessment\ProductSorter\ProductSorter\obj\Debug\net7.0\ProductSorter.AssemblyInfo.cs
+E:\University\Work\Assessment\ProductSorter\ProductSorter\obj\Debug\net7.0\ProductSorter.csproj.CoreCompileInputs.cache
+E:\University\Work\Assessment\ProductSorter\ProductSorter\obj\Debug\net7.0\ProductSorter.dll
+E:\University\Work\Assessment\ProductSorter\ProductSorter\obj\Debug\net7.0\refint\ProductSorter.dll
+E:\University\Work\Assessment\ProductSorter\ProductSorter\obj\Debug\net7.0\ProductSorter.pdb
+E:\University\Work\Assessment\ProductSorter\ProductSorter\obj\Debug\net7.0\ProductSorter.genruntimeconfig.cache
+E:\University\Work\Assessment\ProductSorter\ProductSorter\obj\Debug\net7.0\ref\ProductSorter.dll
