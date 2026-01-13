@@ -4,7 +4,7 @@
 
 This repository contains a **C# console application** developed as part of a technical assessment. The application reads product data from CSV files, allows users to apply various sorting and grouping operations, and displays the results in a formatted and user-friendly console output.
 
-The project follows **standard software design practices**, avoids the use of **external NuGet packages**, and includes **custom-built unit tests** to validate core functionality.
+The project follows standard software design practices, avoids the use of external NuGet packages, and includes custom-built unit tests to validate core functionality.
 
 ---
 
